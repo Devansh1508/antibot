@@ -96,6 +96,3 @@ Reads the result from the `result.txt` file and returns it.
 - `200 OK`: The content of the `result.txt` file.
 - `500 Internal Server Error`: An error occurred while reading the file.
 
-## License
-
-This project is licensed under the MIT License.
