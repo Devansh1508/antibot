@@ -7,6 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+![AntiBot Logo](./src/assets/img1.png)
+
 # AntiBot
 
 AntiBot is a CAPTCHA security solution that differentiates human users from automated bots using mouse dynamics data. By extracting unique features that describe lognormal parameters like stroke distance, initial time, temporal delay, impulse response time, and number of strokes, AntiBot intelligently reads user behavior. This in-depth analysis enables precise identification of authentic users in real-time, enhancing security and ensuring a trustworthy user experience by preventing unauthorized bot access.
